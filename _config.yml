@@ -1,0 +1,28 @@
+name: Wibble
+favicon: null
+layout_spectrum: 0.29612376540899277
+typography_spectrum: 0.885756807634607
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.24954376905225217
+  lightness: 0.1322483078110963
+  saturation: 0.6359101065900177
+  rhythmicContrast: 0.02092666528187692
+purpose: []
